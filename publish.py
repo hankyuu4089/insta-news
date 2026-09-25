@@ -1,5 +1,3 @@
-publish.py
-
 import os, re, sys, time, requests
 
 pid = sys.argv[1]
